@@ -1,0 +1,7 @@
+../Core/Src/taskhandler.c:15:6:Trigger_US_left	16	static
+../Core/Src/taskhandler.c:29:6:Trigger_US_right	16	static
+../Core/Src/taskhandler.c:43:6:Trigger_US_middle	16	static
+../Core/Src/taskhandler.c:57:6:Handle_US_Reading	32	static,ignoring_inline_asm
+../Core/Src/taskhandler.c:150:6:Handle_UART_Reading	24	static
+../Core/Src/taskhandler.c:194:6:HAL_TIM_IC_CaptureCallback	24	static
+../Core/Src/taskhandler.c:295:6:HAL_UART_RxCpltCallback	16	static

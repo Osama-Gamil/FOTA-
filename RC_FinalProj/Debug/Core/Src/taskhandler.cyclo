@@ -1,0 +1,7 @@
+taskhandler.c:15:6:Trigger_US_left	1
+taskhandler.c:29:6:Trigger_US_right	1
+taskhandler.c:43:6:Trigger_US_middle	1
+taskhandler.c:57:6:Handle_US_Reading	8
+taskhandler.c:150:6:Handle_UART_Reading	8
+taskhandler.c:194:6:HAL_TIM_IC_CaptureCallback	16
+taskhandler.c:295:6:HAL_UART_RxCpltCallback	1
